@@ -1,0 +1,31 @@
+.footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+figure{
+    flex-basis: 30%;
+
+}
+.container{
+    display: flex;
+    flex-basis: 70%;
+
+}
+.home{
+    color: white;
+    flex-grow: 2;
+}
+
+li:hover{
+    color: orangered;
+}
+
+h3{
+    color: grey;
+}
+
+figcaption{
+    color: grey;
+}
